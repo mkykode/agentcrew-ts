@@ -1,6 +1,12 @@
 {
+  "permissions": {
+    "allow": [
+      "Bash",
+      "WebFetch"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
   "enabledMcpjsonServers": [
     "Context7"
-  ],
-  "enableAllProjectMcpServers": true
+  ]
 }
