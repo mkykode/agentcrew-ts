@@ -38,6 +38,10 @@ cp .env.example .env
 
 Configure your API keys in `.env`:
 
+
+## Reference
+[Similar Thoughts](https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code)
+
 ```bash
 # AI Provider API Keys
 OPENAI_API_KEY="your-openai-key"
