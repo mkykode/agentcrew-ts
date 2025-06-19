@@ -38,10 +38,6 @@ cp .env.example .env
 
 Configure your API keys in `.env`:
 
-
-## Reference
-[Similar Thoughts](https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code)
-
 ```bash
 # AI Provider API Keys
 OPENAI_API_KEY="your-openai-key"
@@ -327,3 +323,7 @@ MIT License - see [LICENSE](LICENSE) file for details.
 - Built with [Bun](https://bun.sh/) for fast TypeScript execution
 - Terminal UI powered by [Ink](https://github.com/vadimdemedes/ink)
 - Inspired by the need for efficient AI-assisted development workflows
+
+## Reference
+[Blog post with Similar Thoughts](https://kadekillary.work/blog/#2025-06-16-snorting-the-agi-with-claude-code)
+
